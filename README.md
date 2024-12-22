@@ -27,7 +27,7 @@
 - **GF**: Goles a Favor  
 - **GC**: Goles en Contra  
 - **DG**: Diferencia de Goles  
-
+- **DP**: Diferencia de Palos
 ---
 
 ## 🗒️ Notas
@@ -39,3 +39,4 @@
 ---
 
 ¡Mantente al tanto de todas las novedades y disfruta del fútbol! 🥳⚽
+"Cambio desde carpetaB" 
